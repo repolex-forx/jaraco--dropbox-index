@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jaraco/dropbox-index/commit/4a9fb3779037858f6eabbad0f550ca78e68e932b",
       "git:hexsha": "4a9fb3779037858f6eabbad0f550ca78e68e932b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T10:29:44.518717+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/dropbox-index/commit/2d347a0c5cc6df372c72d0728fca804417165f28",
